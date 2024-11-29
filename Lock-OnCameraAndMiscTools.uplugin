@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Lock-OnCameraAndMiscTools",
+	"Description": "Lock-On Camera and Misc Tools",
+	"Category": "Other",
+	"CreatedBy": "Connor Lamb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true
+}
