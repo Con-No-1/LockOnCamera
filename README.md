@@ -8,6 +8,6 @@ Add the actor component "AC_LockOnTarget" to the target you want the players cam
 You can choose the lock on type on the AC_LockOnCamera component, you can choose from snap and interpolate.
 If you choose interpolate, you can set the interpolation speed (the speed at which the camera points towards the target).
 
-You can disable the camera from locking onto a target by setting AC_LockOnTarget's "Enabled" boolean to false. This will make the player's camera revert to normal.
+You can disable the camera from locking onto a target by setting AC_LockOnTarget's "Enabled" boolean to false. This will make the player's camera revert to normal to long as there are no other "Enabled" targets in the world.
 
 The camera will always prioritise the closest target to the player.
